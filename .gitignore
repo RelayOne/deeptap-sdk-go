@@ -1,0 +1,13 @@
+# Go build output
+/bin/
+*.test
+*.out
+coverage.out
+coverage.html
+vendor/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
